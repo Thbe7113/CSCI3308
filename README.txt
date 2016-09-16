@@ -3,4 +3,5 @@ Lab4 - Version Control
 
 
 
-This might casue a merge conflict
+Partner: Calvin Stoehr
+This might cause a merge conflict
